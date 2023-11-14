@@ -1,6 +1,3 @@
 Olá Caio Filipe Silva, como vai?
 
 Criando mais um nó no branch.
-
-
-Adicionando texto direto no github branck-master
