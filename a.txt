@@ -1,4 +1,4 @@
 Teste
 Entendendo o HEAD
 Esta linha foi modificada no ramo master
-Esta linha foi modificada no ramo Teste
+Esta linha foi modificada no ramo Teste, KD o ramo teste?
